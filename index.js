@@ -38,12 +38,6 @@ const questions = [
 
     {
         type: 'input',
-        message: 'Provide badges.',
-        name: 'badges'
-    },
-
-    {
-        type: 'input',
         message: 'How can other developers contribute to this project?',
         name: 'contribute'
     },
@@ -56,13 +50,13 @@ const questions = [
 
     {
         type: 'input',
-        message: '',
+        message: 'What is your github username?',
         name: 'username'
     },
 
     {
         type: 'input',
-        message: '',
+        message: 'What is your email?',
         name: 'email'
     },
 ];
