@@ -19,3 +19,6 @@ The motive behind this project was to create a README generator. It will save th
 4. README will be generated after all prompts are answered
 
 ![Screenshot of generated README.md](./img/READMEgen.png)
+
+## Video Demo Link
+[Click here for Demo Video](https://drive.google.com/file/d/1hyWfrn_Y4eAjSzA47iLwxwq-Y1Zanm7z/view?usp=sharing)
