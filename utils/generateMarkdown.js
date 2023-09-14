@@ -43,6 +43,9 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 ${renderLicenseLink(data.license)}
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Questions](#questions)
   
 ## Installation
 ${data.installation}
@@ -51,7 +54,7 @@ ${data.installation}
 ${data.usage}
 
 ${renderLicenseSection(data.license)}
-License: ${data.license}
+${data.license}
 
 ## How to Contribute
 ${data.contribute}
