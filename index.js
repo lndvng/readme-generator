@@ -30,12 +30,6 @@ const questions = [
     },
 
     {
-        type: 'input',
-        message: 'List collaborators, if any, as well as their github pages.',
-        name: 'credits'
-    },
-
-    {
         type: 'list',
         message: 'Which license do you want to add?',
         name: 'license',
@@ -44,26 +38,32 @@ const questions = [
 
     {
         type: 'input',
-        message: 'Provide badges',
+        message: 'Provide badges.',
         name: 'badges'
     },
 
     {
-        type: '',
-        message: '',
-        name: 'features'
-    },
-
-    {
-        type: '',
-        message: '',
+        type: 'input',
+        message: 'How can other developers contribute to this project?',
         name: 'contribute'
     },
 
     {
-        type: '',
-        message: '',
+        type: 'input',
+        message: 'Provide examples on how to test your project',
         name: 'tests'
+    },
+
+    {
+        type: 'input',
+        message: '',
+        name: 'username'
+    },
+
+    {
+        type: 'input',
+        message: '',
+        name: 'email'
     },
 ];
 

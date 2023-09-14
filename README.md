@@ -1,6 +1,7 @@
-# README generator
+#  
   
 ## Description
+ 
   
 ## Table of Contents
 - [Installation](#installation)
@@ -9,17 +10,24 @@
 - [License](#license)
   
 ## Installation
+  
 
 ## Usage
+ 
 
 ## Credits
+
 
 ## License
 
 ## Badges
 
+
 ## Features
+
 
 ## How to Contribute
 
+
 ## Tests
+
